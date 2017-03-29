@@ -1,6 +1,8 @@
 // time: O(n)
 // space: O(1)
 
+/* Given an array of integers, find contiguous subarray within it which has the largest sum. */
+
 #include <stdio.h>
 
 int kadane(int arr[], int n);
